@@ -46,13 +46,13 @@ pip install pandas matplotlib seaborn requests xlsxwriter
 Save the script file as:
 
 ```bash
-imf_pipeline.py
+IMF iData API Intg and Adv Analysis.py
 ```
 
 ### 3. Run the script
 
 ```bash
-python imf_pipeline.py
+python IMF iData API Intg and Adv Analysis.py
 ```
 
 ### 4. Output
